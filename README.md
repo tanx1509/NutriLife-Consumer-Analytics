@@ -1,6 +1,6 @@
-```text
+
 ██╗   ██╗██████╗  █████╗  █████╗ ███╗   ██╗ ██║   ██║██╔══██╗██╔══██╗██╔══██╗████╗  ██║ ██║   ██║██████╔╝███████║███████║██╔██╗ ██║ ██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╗██║ ╚██████╔╝██║  ██║██║  ██║██║  ██║██║ ╚████║  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ 
-```
+
 Proxy Wealth Detection System | Project UDAAN
 
 Income lies. Spending patterns don’t. This system identifies high-value customers where traditional financial signals fail.
